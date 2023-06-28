@@ -86,7 +86,7 @@ export default function Resume(props){
                 "A Personal Portfolio website to showcase all my details and projects at one place.",
               subHeading: "Technologies Used: React JS, Bootsrap ,node, render",
               linkgit:"https://github.com/likhith-cool",
-              linklive:"https://likhith-hotel.onrender.com/",
+              linklive:"https://likhith-portfolio.onrender.com/",
             },
             {
               title: "Hotel Website ",
